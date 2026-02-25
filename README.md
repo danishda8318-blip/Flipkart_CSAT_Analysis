@@ -1,0 +1,2 @@
+## Project Summary -
+   This project aims to improve Customer Satisfaction (CSAT) by using Machine Learning techniques on customer support data. I performed data cleaning and Exploratory Data Analysis (EDA) to identify key factors affecting customer experience. To handle class imbalance, SMOTE was applied, and a Random Forest Classifier was trained to predict CSAT scores effectively.
